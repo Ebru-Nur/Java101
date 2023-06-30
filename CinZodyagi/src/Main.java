@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program
         int year;
         String horoscope= "";
         Scanner input = new Scanner(System.in);
